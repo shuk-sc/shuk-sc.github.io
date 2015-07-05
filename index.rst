@@ -12,10 +12,14 @@ SHUK - Scopatz Research Group
     </p>
 
 
-SHUK is the new research group lead by Proffessor Anthony Scopatz at 
+SHUK is the new research group lead by Professor Anthony Scopatz at 
 `the University of South Carolina <http://www.sc.edu/>`_ in the 
-`Mechanical Engineering department <http://www.me.sc.edu/>`_. Our focus is on Nuclear 
-Engineering, Compuatational Science, and making the universe a better, safer place.
+`Mechanical Engineering department <http://www.me.sc.edu/>`_. 
+
+Our focus is on Nuclear 
+Engineering, Computational Science, and making the universe a better, safer place.
+
+We are committed to open & accessible research tools and methods.
 
 ===============
 News!
