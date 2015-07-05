@@ -47,9 +47,6 @@ Background in *at least one* of the following fields is requested:
 -------------------------
 Expertise
 -------------------------
-No prior nuclear engineering knowledge is strictly required, though
-a desire to learn-as-you-go is needed. 
-
 Applicable software development skills include knowledge of:
 
 * At least one programming language, preferred languages include:
