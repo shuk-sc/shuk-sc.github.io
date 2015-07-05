@@ -42,4 +42,4 @@ Contents
     :titlesonly:
     :maxdepth: 1
 
-
+    jobs/index
