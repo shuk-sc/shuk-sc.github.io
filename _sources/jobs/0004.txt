@@ -1,0 +1,69 @@
+Open Source Scientific Software Maintainer (0004)
+======================================================
+We are seeking a dedicated individual to help to aid in the maintenance of open 
+source scientific computing projects.  This includes duties such as:
+
+* Release management
+* Continuous integration
+* Help with testing
+* Code review
+* and more!
+
+Representative projects of interest include:
+
+* `Cyclus <http://fuelcycle.org/>`_
+* `PyNE <http://pyne.io/>`_
+* and others.
+
+This position will likely make you the most loved person on these projects.
+
+Please send CV or resume to Prof. Scopatz at scopatz@gmail.com.
+
+-------------------------
+Positions
+-------------------------
+This position is open to the following levels:
+
+* Scientific Software Developer
+* Programmer
+
+Salary and compensation will be based on prior work experience.
+
+-------------------------
+Background
+-------------------------
+Background in *at least one* of the following fields is requested:
+
+* Data Science
+* Data Engineering
+* Computer Engineering
+* Computer Science
+* Applied Mathematics
+* Physics
+* Nuclear Engineering
+* Mechanical Engineering
+* Or similar.
+
+-------------------------
+Expertise
+-------------------------
+Applicable software development skills include knowledge of:
+
+* At least one programming language, preferred languages include:
+
+    - Python
+    - Haskell 
+    - C++
+
+* git or hg, or other version control system
+* Test-driven development
+* Other software development best practices.
+
+Potentially useful other software development skills include:
+
+* Shell (Bash, Fish, Xonsh)
+
+-------------------------
+Start Date
+-------------------------
+ASAP (2015-07-01)
