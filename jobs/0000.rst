@@ -9,7 +9,7 @@ This position may involve working with the
 
     - Reactors
     - Enrichment facilities
-    - Reprocessing facilies
+    - Reprocessing facilities
     - Repositories
     - And others!
 
@@ -22,7 +22,7 @@ nuclear fuel cycle.
 
 Specific area of work will be tailored to applicant and applicants interests.
 
-Please send CV or Resume to Prof. Scopatz at scopatz@gmail.com.
+Please send CV or resume to Prof. Scopatz at scopatz@gmail.com.
 
 -------------------------
 Positions
@@ -31,9 +31,9 @@ This position is open to the following levels:
 
 * Graduate Student
 * Post-doctoral Scholar
-* Scientic Software Developer
+* Scientific Software Developer
 
-Salary and compensation will be based on prior work experiance.
+Salary and compensation will be based on prior work experience.
 
 -------------------------
 Background
@@ -52,10 +52,10 @@ Background in *at least one* of the following fields is requested:
 -------------------------
 Expertise
 -------------------------
-No prior fuel cycle experiance or computational skills are strictly required, though 
+No prior fuel cycle experience or computational skills are strictly required, though 
 a desire to learn these is needed. 
 
-Applicable experise from the nuclear fuel cycle includes usage of simulators such as,
+Applicable expertise from the nuclear fuel cycle includes usage of simulators such as,
 
 * Cyclus
 * VISION
@@ -66,7 +66,7 @@ Applicable experise from the nuclear fuel cycle includes usage of simulators suc
 
 Applicable software development skills include knowledge of
 
-* At least one programming language, preffered languages include:
+* At least one programming language, preferred languages include:
 
     - Python
     - Haskell 
@@ -74,6 +74,7 @@ Applicable software development skills include knowledge of
 
 * git or hg, or other version control systems
 * Test-driven development
+* Other software development best practices.
 
 -------------------------
 Start Date
