@@ -13,9 +13,10 @@ PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
-DOCREPONAME = xonsh-docs
-DOCREPOURL  = git@github.com:scopatz/xonsh-docs.git
-DOCREPOBRANCH = gh-pages
+DOCREPONAME = shuk-sc
+DOCREPOURL  = git@github.com:shuk-sc/shuk-sc.github.io.git
+#DOCREPOBRANCH = gh-pages
+DOCREPOBRANCH = master
 
 .PHONY: help clean html dirhtml pickle json htmlhelp qthelp latex changes linkcheck doctest
 
