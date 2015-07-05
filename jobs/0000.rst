@@ -1,6 +1,6 @@
 Fuel Cycle Researcher (0000)
 ============================================
-We are seeking a researching with interest or expertise in the nuclear fuel cycle.
+We are seeking a researcher with interest or expertise in the nuclear fuel cycle.
 This position may involve working with the 
 `Cyclus fuel cycle simulator <http://fuelcycle.org/>`_ to:
 
