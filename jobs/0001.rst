@@ -36,7 +36,6 @@ Background in *at least one* of the following fields is requested:
 * Data Science
 * Data Engineering
 * Nuclear Engineering
-* Public Policy
 * Mechanical Engineering
 * Computer Science
 * Computer Engineering

@@ -1,20 +1,20 @@
-Machine Learning Researcher (0002)
+Scientific Software Researcher (0003)
 ======================================================
-We are seeking a machine learning researcher to aid in the development of a new analysis 
-platform for nuclear non-proliferation. Broadly speaking, nuclear non-proliferation seeks
-to keep nuclear weapons away from people who shouldn't have them. 
+We are seeking a scientific software researcher to aid in the development of a new
+tool for solving differential equations through compiling optimized symbolic expressions.
+Such a tool has the potential to impact many fields, though the first areas of 
+research will likely be within nuclear engineering, astronomy and astrophysics, and
+molecular dynamics.
 
-This position will help develop and implement new machine learning and/or deep learning
-algorithms for uncertainty quantification of non-proliferation data.  This data may 
-stem from a variety of real and simulated sources. 
-Real time algorithms to validate and interpret incoming data are highly-desirable.
+This position will require the use and/or development of 
+`SymPy <http://www.sympy.org/en/index.html>`_. Knowledge of compilers, common 
+sub-expression elimination, and computer architecture is highly desirable. 
+A major challenges in this area is the high-memory usage of current tools.
+Applicants should be interested or able to develop open source communities as 
+well as codes. 
 
 As a research position, the primary goal of the applicant will be to write 
 publications demonstrating the results of interesting and new investigations.
-
-Specific area of work will be tailored to applicant and applicants interests.
-
-**Applicant must be eligible for U.S. national security clearance.** 
 
 Please send CV or resume to Prof. Scopatz at scopatz@gmail.com.
 
@@ -23,9 +23,9 @@ Positions
 -------------------------
 This position is open to the following levels:
 
-* Scientific Software Developer
 * Graduate Student
 * Post-doctoral Scholar
+* Scientific Software Developer
 
 Salary and compensation will be based on prior work experience.
 
@@ -34,14 +34,14 @@ Background
 -------------------------
 Background in *at least one* of the following fields is requested:
 
-* Data Science
-* Data Engineering
+* Computer Science
 * Applied Mathematics
+* Computer Engineering
+* Data Science
+* Physics
+* Data Engineering
 * Nuclear Engineering
 * Mechanical Engineering
-* Computer Science
-* Computer Engineering
-* Physics
 * Or similar.
 
 -------------------------
@@ -64,9 +64,11 @@ Applicable software development skills include knowledge of:
 
 Potentially useful other software development skills include:
 
-* High performance computing
-* Cloud computing (high throughput computing)
-* Data Science
+* Compilers (lex and yacc)
+* Computer Algebra Systems (such as SymPy or Mathematica)
+* Deeper than topical knowledge of common sub-expression elimination
+* Cython
+* LaTeX
 
 -------------------------
 Start Date
