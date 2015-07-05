@@ -1,0 +1,75 @@
+Data Scientist (0001)
+======================================================
+We are seeking a data scientist to aid in the development of a new analysis platform 
+for nuclear non-proliferation. Broadly speaking, nuclear non-proliferation seeks to
+keep nuclear weapons away from people who shouldn't have them. 
+
+This position will help architect and implement an computational platform that will 
+consume data from a variety of real data sources (such as satellite imagery and remote 
+detectors) and synthesized or simulated surrogate data sources. Consumed data should 
+be automatically verified and fed into various mechanisms for quantifying uncertainty.
+Real time processing of consumed data is highly-desirable.
+
+Specific area of work will be tailored to applicant and applicants interests.
+
+**Applicant must be eligible for U.S. national security clearance.** 
+
+Please send CV or resume to Prof. Scopatz at scopatz@gmail.com.
+
+-------------------------
+Positions
+-------------------------
+This position is open to the following levels:
+
+* Scientific Software Developer
+* Programmer
+* Graduate Student
+* Post-doctoral Scholar
+
+Salary and compensation will be based on prior work experience.
+
+-------------------------
+Background
+-------------------------
+Background in *at least one* of the following fields is requested:
+
+* Data Science
+* Data Engineering
+* Nuclear Engineering
+* Mechanical Engineering
+* Computer Science
+* Computer Engineering
+* Physics
+* Applied Mathematics
+* Or similar.
+
+-------------------------
+Expertise
+-------------------------
+No prior nuclear engineering knowledge is strictly required, though
+a desire to learn-as-you-go is needed. 
+
+Applicable software development skills include knowledge of:
+
+* At least one programming language, preferred languages include:
+
+    - Python
+    - Haskell 
+    - C++
+
+* git or hg, or other version control system
+* Test-driven development
+* Other software development best practices.
+
+Potentially useful other software development skills include:
+
+* High performance computing
+* Cloud computing (high throughput computing)
+* Machine learning
+* Information theory
+* Statistics
+
+-------------------------
+Start Date
+-------------------------
+ASAP (2015-07-01)
